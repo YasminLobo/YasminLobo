@@ -55,7 +55,7 @@ Faculdade SENAI de Tecnologia (2025 – Presente)
 Integrante Selecionada (2025 – Presente)  
 - Análise forense de logs e sistemas  
 - Treinamento intensivo em segurança ofensiva/defensiva  
-- Preparação para competições  de cybersecurity  
+- Preparação para competições de cybersecurity  
 
 ## 📈 GitHub Stats
 
@@ -71,3 +71,4 @@ Integrante Selecionada (2025 – Presente)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasminLobo&theme=dracula&row=1&column=7" alt="GitHub Trophies">
 </div>
+
