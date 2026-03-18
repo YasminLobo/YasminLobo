@@ -3,7 +3,6 @@
 
 <div align="right">
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](#)</kbd>
 
 </div>
 
@@ -130,6 +129,8 @@ SENAI Taubaté
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLobo&layout=compact&theme=cobalt" />
 </p>
 
-# 🐍 Commit Snake
+<br>
 
-![Snake animation](https://github.com/YasminLobo/YasminLobo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+
+<br>
