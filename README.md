@@ -6,9 +6,6 @@
 
 </div>
 
-<div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/YasminLobo/YasminLobo/blob/main/banner.png"/>
-</div>
 
 <div align="right">
 
