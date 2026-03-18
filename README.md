@@ -26,11 +26,11 @@
 
 ### 👩‍💻 Sobre Mim
 
-Tecnóloga em **Análise e Desenvolvimento de Sistemas** (cursando) apaixonada por **cybersecurity**, desenvolvimento full-stack e automação. Gosto de transformar problemas complexos em soluções elegantes e seguras. Atualmente focada em ethical hacking, pentest e construção de aplicações modernas.
+Desenvolvedora full-stack em formação e entusiasta de **cybersecurity**. Apaixonada por ethical hacking, pentest, automação e construção de soluções seguras e modernas. Atualmente trabalhando na **Hermanos TI**, onde coloco a mão na massa em projetos reais do dia a dia.
 
-- 🔐 Cybersecurity Enthusiast & Blue Team / Red Team in training  
-- 💻 Full-Stack Developer in progress  
-- 🚀 Sempre aprendendo algo novo  
+- 🔐 Cybersecurity Enthusiast (Blue Team / Red Team in training)  
+- 💻 Full-Stack Developer  
+- 🚀 Sempre aprendendo e evoluindo  
 
 ---
 
@@ -48,7 +48,6 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** (cursando) apaixonada p
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <!-- Pode adicionar mais: Docker, Node.js, etc. quando usar -->
 </p>
 
 ---
@@ -66,21 +65,17 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** (cursando) apaixonada p
 
 ---
 
-### 💼 Experiência
+### 💼 Experiência Profissional
 
-**Estagiária – Desenvolvimento de Software**  
-Faculdade SENAI de Tecnologia • 2025 – presente  
-- Desenvolvimento de chatbot para otimizar interações acadêmicas  
-- Aplicação de metodologias ágeis em projetos internos  
-- Automação de processos administrativos
-
----
-
-### 🏆 Destaques Extracurriculares
+**Desenvolvedora de Software**  
+Hermanos TI • Atual (2025 – presente)  
+- Desenvolvimento e manutenção de aplicações web e mobile  
+- Colaboração em equipe utilizando metodologias ágeis  
+- Automação de processos e otimização de fluxos de trabalho
 
 **Equipe SP Skills SENAI – Competição de Cyber Segurança**  
 Integrante selecionada • 2025 – presente  
-- Análise forense de logs e sistemas comprometidos  
+- Análise forense de logs e sistemas  
 - Treinamento intensivo em segurança ofensiva e defensiva  
 - Preparação para competições nacionais de cybersecurity
 
@@ -114,12 +109,11 @@ Integrante selecionada • 2025 – presente
 
 ### ⚡ Fun Fact
 
-Já tentei fazer um "capture the flag" sozinha às 3 da manhã e acabei descobrindo que o maior bug era... eu esquecendo de ligar o Wi-Fi 😅
+Já tentei fazer um CTF sozinha às 3 da manhã e descobri que o maior exploit era... eu esquecendo de conectar no Wi-Fi 😅
 
 ---
 
 <p align="center">
-  Feito com ☕ & ❤️ • Vamos conectar? 
 </p>
 
 <p align="center">
