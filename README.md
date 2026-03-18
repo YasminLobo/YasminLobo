@@ -107,9 +107,7 @@ Integrante selecionada • 2025 – presente
 
 ---
 
-### ⚡ Fun Fact
 
-Já tentei fazer um CTF sozinha às 3 da manhã e descobri que o maior exploit era... eu esquecendo de conectar no Wi-Fi 😅
 
 ---
 
