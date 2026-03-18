@@ -11,11 +11,7 @@
 </div>
 
 <div align="right">
-<br>
 
-![profile-views](https://komarev.com/ghpvc/?username=YasminLobo&color=blueviolet)
-
-</div>
 
 <div align="center">
 
