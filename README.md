@@ -4,13 +4,10 @@
 #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/YasminLobo/YasminLobo/blob/main/README-us.md)</kbd>
 </div>
 
-<div align="center">
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/AnaProgramando/blob/01aedc336431ca8444347703ce043252a085eb6f/banner_welcome.png"/>
-</div>
+
 
 <div align="right">
 <br>
-![profile-views](https://komarev.com/ghpvc/?username=YasminLobo&color=blueviolet)
 </div>
 
 <div align="center">
