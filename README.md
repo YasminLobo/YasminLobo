@@ -25,7 +25,6 @@
 ---
 
 ### 👩‍💻 Sobre Mim
-
 Desenvolvedora full-stack em formação e entusiasta de **cybersecurity**. Apaixonada por ethical hacking, pentest, automação e construção de soluções seguras e modernas. Atualmente trabalhando na **Hermanos TI**, onde coloco a mão na massa em projetos reais do dia a dia.
 
 - 🔐 Cybersecurity Enthusiast (Blue Team / Red Team in training)  
@@ -98,6 +97,21 @@ Integrante selecionada • 2025 – presente
 
 ---
 
+### 🐍 Contribuições devoradas pela cobra
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasminLobo/output/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasminLobo/output/main/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YasminLobo/output/main/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- Se você configurar o GIF no workflow, descomente isso para animação mais fluida: -->
+<!-- <p align="center"><img src="https://raw.githubusercontent.com/YasminLobo/output/main/github-contribution-grid-snake.gif" alt="Snake GIF" /></p> -->
+
+---
+
 ### 🌱 Atualmente estudando / aprendendo
 
 - Pentest e ferramentas de exploração (Metasploit, Burp Suite, Nmap...)  
@@ -107,11 +121,14 @@ Integrante selecionada • 2025 – presente
 
 ---
 
+### ⚡ Fun Fact
 
+Já tentei fazer um CTF sozinha às 3 da manhã e descobri que o maior exploit era... eu esquecendo de conectar no Wi-Fi 😅
 
 ---
 
 <p align="center">
+  Feito com ☕ & ❤️ • Vamos conectar? 
 </p>
 
 <p align="center">
