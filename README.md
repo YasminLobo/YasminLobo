@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+😉;Desenvolvedora+de+Software+💻;Programadora+Júnior+🚀;Foco+em+React+e+Mobile+📱;Interesse+em+Cibersegurança+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Bem+vinda(o)+ao+meu+Perfil!+😉)](https://git.io/typing-svg)
 
 </div>
 
